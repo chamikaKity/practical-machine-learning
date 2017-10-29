@@ -120,7 +120,7 @@ partitioning data to train and test the model
 
 ![](machine_learning_project_files/figure-markdown_strict/random%20forest-1.png)
 
-1.  Linear Discriminant Analysis
+2.  Linear Discriminant Analysis
 
 <!-- -->
 
@@ -133,7 +133,7 @@ partitioning data to train and test the model
     ##  Accuracy 
     ## 0.8513169
 
-1.  Regression Trees
+3.  Regression Trees
 
 <!-- -->
 
